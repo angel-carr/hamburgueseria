@@ -1,2 +1,2 @@
 # hamburgueseria
-web para visualizar los menus y hacer pedidos mediante whp
+web para visualizar los menus y hacer pedidos mediante whatsapp
